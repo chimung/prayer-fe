@@ -2,7 +2,7 @@ import React from "react";
 const Home = () => {
   return (
     <React.Fragment>
-      <span>Test</span>
+      <span>Muon thu sang page khac</span>
     </React.Fragment>
   );
 };
